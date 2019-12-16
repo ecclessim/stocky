@@ -5,3 +5,6 @@ If you want to try out the application I think you'll need to install BeautifulS
 :^)
 
 A token key can be obtained from IEX's website: https://iexcloud.io/docs/api/
+
+Or if you just want to see how it kinda looks like, here you go. :^)
+
