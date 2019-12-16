@@ -8,3 +8,4 @@ A token key can be obtained from IEX's website: https://iexcloud.io/docs/api/
 
 Or if you just want to see how it kinda looks like, here you go. :^)
 
+![img1](img/img1.jpg)
