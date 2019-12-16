@@ -9,3 +9,7 @@ A token key can be obtained from IEX's website: https://iexcloud.io/docs/api/
 Or if you just want to see how it kinda looks like, here you go. :^)
 
 ![img1](img/img1.jpg)
+![img2](img/img2.jpg)
+![img3](img/img3.jpg)
+![img4](img/img4.jpg)
+![img5](img/img5.jpg)
